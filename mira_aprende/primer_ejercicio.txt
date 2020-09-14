@@ -1,0 +1,11 @@
+1. que diga "Bienvenido a la calculadora mas deahuevo"
+
+2. imprimir "Ingrese la operacion"
+
+3. ingrese la operacion
+
+4. operar la operacion
+
+5. imprima el resultado
+
+6. repetir hasta que escriba "salir"
